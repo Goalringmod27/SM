@@ -37,4 +37,6 @@ add disk/bb2/Packed/pam000/pam000.arl
 add disk/bb2/EnemyEPawnCommon.ar.00
 add disk/bb2/EnemyEPawnCommon.ar.01
 add disk/bb2/EnemyEPawnCommon.arl
+add disk/bb2/#pam000.ar.00
+add disk/bb2/#pam000.arl
 add mod.ini
