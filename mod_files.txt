@@ -55,6 +55,8 @@ add disk/bb2/pam000.ar.04
 add disk/bb2/pam000.arl
 add disk/bb2/EnemyEPawnPLA.ar.00
 add disk/bb2/EnemyEPawnPLA.arl
+add disk/bb2/LoadingCustom.ar.00
+add disk/bb2/LoadingCustom.arl
 add disk/bb3/#Application.ar.00
 add disk/bb3/#Application.arl
 add mod.ini
